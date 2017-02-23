@@ -1,0 +1,10 @@
+c:\users\bledbetter\documents\visual studio 2015\Projects\TableModelMaker\TableModelMaker.Services\bin\Debug\TableModelMaker.Services.exe.config
+c:\users\bledbetter\documents\visual studio 2015\Projects\TableModelMaker\TableModelMaker.Services\bin\Debug\TableModelMaker.Services.exe
+c:\users\bledbetter\documents\visual studio 2015\Projects\TableModelMaker\TableModelMaker.Services\bin\Debug\TableModelMaker.Services.pdb
+c:\users\bledbetter\documents\visual studio 2015\Projects\TableModelMaker\TableModelMaker.Services\obj\Debug\TableModelMaker.Services.csprojResolveAssemblyReference.cache
+c:\users\bledbetter\documents\visual studio 2015\Projects\TableModelMaker\TableModelMaker.Services\obj\Debug\TableModelMaker.Services.Properties.Resources.resources
+c:\users\bledbetter\documents\visual studio 2015\Projects\TableModelMaker\TableModelMaker.Services\obj\Debug\TableModelMaker.Services.csproj.GenerateResource.Cache
+c:\users\bledbetter\documents\visual studio 2015\Projects\TableModelMaker\TableModelMaker.Services\obj\Debug\TableModelMaker.Services.exe
+c:\users\bledbetter\documents\visual studio 2015\Projects\TableModelMaker\TableModelMaker.Services\obj\Debug\TableModelMaker.Services.pdb
+C:\Users\bledbetter\Documents\Visual Studio 2015\Projects\TableModelMaker\TableModelMaker.Services\bin\Debug\ExcellLibrary.dll
+C:\Users\bledbetter\Documents\Visual Studio 2015\Projects\TableModelMaker\TableModelMaker.Services\bin\Debug\ExcellLibrary.pdb

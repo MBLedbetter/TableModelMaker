@@ -1,0 +1,10 @@
+c:\users\bledbetter\documents\visual studio 2015\Projects\TableModelMaker\TableModelMaker.Tests\bin\Debug\TableModelMaker.Tests.dll
+c:\users\bledbetter\documents\visual studio 2015\Projects\TableModelMaker\TableModelMaker.Tests\bin\Debug\TableModelMaker.Tests.pdb
+c:\users\bledbetter\documents\visual studio 2015\Projects\TableModelMaker\TableModelMaker.Tests\bin\Debug\TableModelMaker.Tests.xml
+c:\users\bledbetter\documents\visual studio 2015\Projects\TableModelMaker\TableModelMaker.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\bledbetter\documents\visual studio 2015\Projects\TableModelMaker\TableModelMaker.Tests\obj\Debug\TableModelMaker.Tests.vbprojResolveAssemblyReference.cache
+c:\users\bledbetter\documents\visual studio 2015\Projects\TableModelMaker\TableModelMaker.Tests\obj\Debug\TableModelMaker.Tests.Resources.resources
+c:\users\bledbetter\documents\visual studio 2015\Projects\TableModelMaker\TableModelMaker.Tests\obj\Debug\TableModelMaker.Tests.vbproj.GenerateResource.Cache
+c:\users\bledbetter\documents\visual studio 2015\Projects\TableModelMaker\TableModelMaker.Tests\obj\Debug\TableModelMaker.Tests.dll
+c:\users\bledbetter\documents\visual studio 2015\Projects\TableModelMaker\TableModelMaker.Tests\obj\Debug\TableModelMaker.Tests.xml
+c:\users\bledbetter\documents\visual studio 2015\Projects\TableModelMaker\TableModelMaker.Tests\obj\Debug\TableModelMaker.Tests.pdb
