@@ -54,7 +54,7 @@ namespace TableModelMaker.Services
             switch(value)
             {
                 case "char":
-                    result += "varchar ";
+                    result += "string ";
                     break;
                 case "decimal":
                     result += "decimal ";
@@ -72,7 +72,7 @@ namespace TableModelMaker.Services
                     result += "DateTime ";
                     break;
                 case "varchar":
-                    result += "varchar ";
+                    result += "string ";
                     break;
             }
 
